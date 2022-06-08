@@ -1,0 +1,11 @@
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Double Pendulum.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Double Pendulum.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Doube_Pendulum.Main_window.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Doube_Pendulum.Properties.Resources.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Double Pendulum.csproj.GenerateResource.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Double Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Doube Pendulum.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\obj\Release\Doube Pendulum.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\bin\Release\Doube Pendulum.exe.config
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\bin\Release\Doube Pendulum.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Double-Pendulum\bin\Release\Doube Pendulum.pdb
