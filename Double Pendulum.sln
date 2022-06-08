@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Double Pendulum", "Double Pendulum.csproj", "{71F5DFED-C6CC-47B7-8400-C430BB50420D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71F5DFED-C6CC-47B7-8400-C430BB50420D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F5DFED-C6CC-47B7-8400-C430BB50420D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F5DFED-C6CC-47B7-8400-C430BB50420D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F5DFED-C6CC-47B7-8400-C430BB50420D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD25C3DE-D282-4ECF-92C0-446C84F91647}
+	EndGlobalSection
+EndGlobal

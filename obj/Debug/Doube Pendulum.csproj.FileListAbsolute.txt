@@ -1,0 +1,11 @@
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\bin\Debug\Doube Pendulum.exe.config
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\bin\Debug\Doube Pendulum.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\bin\Debug\Doube Pendulum.pdb
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube Pendulum.csproj.AssemblyReference.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube Pendulum.csproj.SuggestedBindingRedirects.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube_Pendulum.Form1.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube_Pendulum.Properties.Resources.resources
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube Pendulum.csproj.GenerateResource.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube Pendulum.csproj.CoreCompileInputs.cache
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube Pendulum.exe
+C:\Users\tobia\OneDrive\Plocha\Visual Studio\Doube Pendulum\obj\Debug\Doube Pendulum.pdb
